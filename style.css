@@ -1,0 +1,28 @@
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+hr{
+    border-color:aliceblue;
+    border: height 0px;
+    border-style:dotted none none none;
+    border-width: 3px;
+    width: 100%;
+}
+
+body{
+    background-color:gray;
+}
+table{
+    border: 20px;
+}
+h3{
+    color:antiquewhite;
+}
+h1{
+    color: brown;
+}
+span{
+    color: darkgrey;
+}
